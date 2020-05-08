@@ -1,3 +1,3 @@
-exports.hi = function () {
-  console.log('哈哈😄')
-}
+#! /usr/bin/env node
+
+console.log('哈哈😄')
