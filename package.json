@@ -1,18 +1,26 @@
 {
-  "name": "joeyscat",
-  "version": "1.0.2",
+  "name": "oocat",
+  "version": "1.0.0",
   "description": "just a cat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "joeyscat": "index.js",
-    "hehe": "hehe.js"
+    "oocat": "index.js"
   },
   "keywords": [
-    "cat"
+    "cat",
+    "oocat"
   ],
   "author": "爱包子的鱼",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joeyscat/oocat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Joeyscat/oocat/issues"
+  },
+  "homepage": "https://github.com/Joeyscat/ocaot#readme"
 }
