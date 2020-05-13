@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Joeyscat/oocat/issues"
   },
-  "homepage": "https://github.com/Joeyscat/ocaot#readme"
+  "homepage": "https://github.com/Joeyscat/ocaot#readme",
+  "dependencies": {
+    "images": "^3.0.2"
+  }
 }
